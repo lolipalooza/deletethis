@@ -1,3 +1,0 @@
-This is the test 2.
-New line.
-Abnother line.
